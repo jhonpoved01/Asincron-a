@@ -5,7 +5,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
+| Jhon Poveda | Líder (Arquitecto) | `@jhonpoved01` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
@@ -17,7 +17,7 @@ Para mantener el orden y separar lo profesional de lo personal, usaremos los sig
 
 ## 3. Horarios y Sincronización
 * **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Días de la semana] a las [Hora] de forma [Presencial/Virtual].
-* **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [Ej: 4 horas] durante el horario hábil.
+* **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de 12 horas durante el horario hábil.
 
 ## 4. Reglas de Desarrollo
 * **Prohibido el "Push" a Main:** Nadie, bajo ninguna circunstancia, subirá código directamente a `main` o `develop` sin pasar por un Pull Request.
