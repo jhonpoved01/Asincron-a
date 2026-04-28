@@ -3,16 +3,18 @@
 Este documento establece las reglas de convivencia, comunicación y estándares de calidad de nuestra célula ágil. Al participar en este repositorio, todos los miembros del equipo aceptamos y nos comprometemos a cumplir estos acuerdos.
 
 ## 1. Miembros del Equipo y Roles
-| Nombre | Rol | Usuario de GitHub |
-| :--- | :--- | :--- |
+| Nombre | Rol | Usuario de GitHub | :--- | :--- | :--- |
 | Jhon Poveda | Líder (Arquitecto) | `@jhonpoved01` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@saray-cod` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+<<<<<<< Updated upstream
+=======
+| [Nombre del Aprendiz 2] | Desarrollador | `@aprendiz02` |
+| [ELISEO AMAYA GUERRERO] | Desarrollador | `@eliam170` |
+>>>>>>> Stashed changes
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [Ej: correo corporativo / Microsoft Teams]
-* **Urgencias o bloqueos rápidos:** [Ej: Grupo de WhatsApp]
+* **Comunicación Oficial y Archivos:** correo corporativo 
+* **Urgencias o bloqueos rápidos:** Grupo de WhatsApp
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
